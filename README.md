@@ -1,0 +1,1 @@
+The Inventory Management Software is a robust application developed using JDBC, MySQL, Swing, and AWT. It offers a user-friendly interface for efficient management of inventory items, tracking stock levels, generating reports, and handling purchase and sales orders. The software ensures accurate inventory control, seamless data integration, and streamlined business operations.
